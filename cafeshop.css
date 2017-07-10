@@ -1,7 +1,7 @@
 /*Home*/
 a {text-decoration:none;}
 
-body {margin: 0; padding: 0; font-family: helvetica, sans-serif; background-image: url("coffee background3.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-size: 1666px 768px;}
+body {margin: 0; padding: 0; font-family: helvetica, sans-serif; background-image: url("coffee background3.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-size: 100%;}
 
 nav { background: rgb(240,240,240); padding: 1em 2em; position: fixed; top: 0; width: 1216px;}
 				
@@ -17,7 +17,7 @@ li:hover {border-bottom: 10px; }
       
 h1, h2, h3 { font-weight: 300; text-transform: uppercase;}
 
-h1 { margin-top: 0; margin-bottom: 20px; color: #fff; font-size: 240%; word-spacing: 4px; letter-spacing: 1px; height: 30%;}
+h1, h2 { margin-top: 0; margin-bottom: 20px; color: #fff; font-size: 240%; word-spacing: 4px; letter-spacing: 1px; height: 30%;}
 
 header,main { width: 1280px; height: 500px; background-color: #FFEBCD; margin-bottom: 50px; margin-left: auto; margin-right: auto; background-image: url("http://i.imgur.com/HBPvfZb.jpg"); background-position: center; background-repeat: no-repeat; background-size: cover; margin-top:220px;
 
